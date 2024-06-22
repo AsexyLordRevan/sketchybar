@@ -5,3 +5,5 @@
 My sketchybar config 
 
 Interacts with Yabai, Spotify and SKHD
+
+Requires a custom font for the space icons
